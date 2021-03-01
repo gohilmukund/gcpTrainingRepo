@@ -1,5 +1,4 @@
 # Compute Engine and deployment Manager 
-***
 
 ## TASK 1
 
