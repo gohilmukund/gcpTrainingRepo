@@ -6,3 +6,4 @@ description: GCP Training Activity
 
 # Build settings
 theme: jekyll-theme-hacker
+markdown: kramdown
