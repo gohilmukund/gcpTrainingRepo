@@ -1,9 +1,12 @@
-# Compute Engine and deployment Manager
+# Compute Engine and deployment Manager 
+***
 
-## Activity: Deploy application to Compute Engine
+## TASK 1
 
-## Sub Activity: Deploy a web application on Compute Engine Instance using deployment Manager
+#### Activity: Deploy application to Compute Engine
 
+##### Sub Activity: Deploy a web application on Compute Engine Instance using deployment Manager
+---
 
 Code used:
 
