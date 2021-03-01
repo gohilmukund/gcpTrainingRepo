@@ -7,7 +7,7 @@
 
 Code used:
 
-```
+```yaml
 resources:
 - type: compute.v1.instance
   name: mukund-deployment-vm
