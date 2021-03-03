@@ -3,6 +3,8 @@ title: GCP Training Activity
 author: Mukund Gohil
 email: gohil.mukund@gmail.com
 description: Training activity by Mukund Gohil while learning Google Cloud Platform
+show_downloads: true
+google_analytics:
 
 # Build settings
 theme: jekyll-theme-hacker

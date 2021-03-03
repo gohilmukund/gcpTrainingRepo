@@ -1,16 +1,19 @@
 ## Welcome to Mukund's Learning Page for Google Cloud Platform
 
 Please find the task performed by me below:
-1. [Deploy a web application on Compute Engine Instance using deployment Manager](./Task1/readme.md)
-2. [Add high avaialbilty and scalabilty to the existing app deployed in compute engine](./Task2/readme.md)
-3. Deploy microservice app with UI, Backend service and a DB service on GKE cluster
-4. Enabling Autoscaling, High Availability
-5. Perform Rolling update to above Deployment.
-6. Deploy any sample application to Appengine with Cloud Build using CI/CD approach. Write data into Datastore
-7. Create a cloud function, that listens to GCS bucket and process the file and write results to Cloud SQL .
-8. Deploy Static Website on cloud storage
-9. Create Virtual Machines with Private IP only on non default VPC . Download and install some software from internet and patch the VM
-10. Create VPN connection between two GCP custom mode VPC networks and test connectivity between two different instances located in diffrent networks
-11. Using Command line (Without tool)
-12. Using Migrate for compute service
 
+| Topic                                       |                        Activity                         | Sub Activities                                                                                                                                    | Status & Link                      |
+| ------------------------------------------- | :-----------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------- |
+| Compute Engine and deployment Manager       |          Deploy application to Compute Engine           | Deploy a web application on Compute Engine Instance using deployment Manager                                                                      |  [Completed](./Task1/readme.md) |
+| Compute Engine and deployment Manager       |        Highly available and scalable application        | Add high avaialbilty and scalabilty to the existing app deployed in compute engine                                                                |  [Completed](./Task2/readme.md) |
+| Kubernetes                                  |                  Kubernetes deployment                  | Deploy microservice app with UI, Backend service and a DB service on GKE cluster                                                                  | [inCompleted](./Task3/readme.md) |
+| Kubernetes                                  |                  Kubernetes deployment                  | Enabling Autoscaling, High Availability                                                                                                           | [inCompleted](./Task4/readme.md) |
+| Kubernetes                                  |                  Kubernetes deployment                  | Perform Rolling update to above Deployment                                                                                                        | [inCompleted](./Task5/readme.md) |
+| Appengine and Cloud Build                   |             Deploy Application to Appengine             | Deploy any sample application to Appengine with Cloud Build using CI/CD approach. Write data into Datastore                                       | [inCompleted](./Task6/readme.md) |
+| Cloud Function, Cloud Storage and Cloud SQL |                  Event driven process                   | Create a cloud function, that listens to GCS bucket and process the file and write results to Cloud SQL                                           | [inCompleted](./Task6/readme.md) |
+| Cloud Storage                               |                  Deploy Static Website                  | Deploy Static Website on cloud storage                                                                                                            |  [inCompleted](./Task6/readme.md) |
+| Cloud NAT                                   |       Patching VM and Install  a software package       | Create Virtual Machines with Private IP only on non default VPC . Download and install some software from internet and patch the VM               |  [inCompleted](./Task6/readme.md) |
+| Cloud VPN                                   |       Setup VPN with two GCP custom mode Networks       | Create VPN connection between two GCP custom mode VPC networks and test connectivity between two different instances located in diffrent networks |  [inCompleted](./Task6/readme.md) |
+| Migration                                   | Migration from AWS to GCP ( Statefull Virtual Machines) | Using Command line (Without tool)                                                                                                                 | [inCompleted](./Task6/readme.md) |
+| Migration                                   | Migration from AWS to GCP ( Statefull Virtual Machines) | Using Migrate for compute service                                                                                                                 | [inCompleted](./Task6/readme.md) |
+| Terraform                                   |    A simple architecture to be scripted in Terraform    | 1. Create VPC 2. Create Subnet  3. Create VM 4. Create Firewall rules & routes. 5. 1,2,3,4 using cloud foundation toolkit                         |  [`inCompleted`](./Task6/readme.md) |
